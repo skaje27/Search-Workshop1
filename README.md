@@ -38,7 +38,7 @@ and postgres for storing and retrieving application data.
 ## Schedule
 | Time            | Topics
 |-----------------|-------
-| 09:00 - 9:15   |  `Introduction`
+| 09:00 - 9:15   |  `Introduction Session` 
 | 09:15 - 10:00   |  [`Introduction to git`](docs/git/git_intro.md)
 | 9:45 - 10:15   |  [`Git Commands (push, pull, make Pull request etc)`](docs/git/git.md)
 | 10:15 - 10:30   |  [`What is docker`](docs/docker/docker_intro.md)
